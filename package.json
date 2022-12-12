@@ -1,0 +1,20 @@
+{
+  "name": "mern-beginners",
+  "version": "1.0.0",
+  "description": "It comprises of `MongoDB`, `Express`, `React` and `Node`. <br><br>\r Of which `React` is used for **front-end development** <br>\r And `MongoDB`, `Express`, `Node` for **back-end development**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machadop1407/MERN-Beginners.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machadop1407/MERN-Beginners/issues"
+  },
+  "homepage": "https://github.com/machadop1407/MERN-Beginners#readme"
+}

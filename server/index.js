@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(cors());
 
 mongoose.connect(
-  "mongodb+srv://user123:Password123Tech@cluster0.j7fql.mongodb.net/merntutorial?retryWrites=true&w=majority"
+  "mongodb+srv://test:password1234@cluster0.l6ljynb.mongodb.net/?retryWrites=true&w=majority"
 );
 
 app.get("/getUsers", (req, res) => {
