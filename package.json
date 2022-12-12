@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/machadop1407/MERN-Beginners.git"
+    "url": "git+https://github.com/mikeiannotti55/MERN-Beginners"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/machadop1407/MERN-Beginners/issues"
+    "url": "https://github.com/mikeiannotti55/MERN-Beginners/issues"
   },
-  "homepage": "https://github.com/machadop1407/MERN-Beginners#readme"
+  "homepage": "https://github.com/mikeiannotti55/MERN-Beginners#readme"
 }
